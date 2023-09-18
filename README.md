@@ -1,5 +1,5 @@
-# Counter Strike 2
-## Mirage Instant Window Smokes
+> # Counter Strike 2
+> ## Mirage Instant Window Smokes
 
 # Installation
 
@@ -13,3 +13,11 @@
 8. Launch CS:GO
 9. Start an practice session on Mirage
 10. Open console and type `exec mirageInstantWindowPrac`
+
+# Screenshot
+![](https://github.com/PINPAL/cs2-window/blob/main/screenshot.png?raw=true)
+
+# Learn the Smokes
+YouTube Tutorial ⬇️
+[![](https://github.com/PINPAL/cs2-window/blob/main/yt-thumbnail.png?raw=true)](https://youtu.be/EfNBUXvFobU)
+https://youtu.be/EfNBUXvFobU
