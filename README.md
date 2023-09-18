@@ -3,7 +3,7 @@
 
 # Installation
 
-1. Download the latest release of the practice config here.
+1. Download the latest release of the practice config [here](https://github.com/PINPAL/cs2-window/releases/latest/download/mirageInstantSmokePrac.cfg)
 2. Open Steam
 3. Right click CS:GO and click `Properties`
 4. Navigate to the `Local Files` tab at the top
@@ -12,7 +12,7 @@
 7. Then place the `.cfg` files into the folder.
 8. Launch CS:GO
 9. Start an practice session on Mirage
-10. Open console and type `exec mirageInstantWindowPrac`
+10. Open console and type `exec mirageInstantSmokePrac`
 
 # Screenshot
 ![](https://github.com/PINPAL/cs2-window/blob/main/screenshot.png?raw=true)
