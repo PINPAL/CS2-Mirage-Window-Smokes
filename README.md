@@ -11,7 +11,7 @@
 6. In the window that pops up navigate to: `game\csgo\cfg`
 7. Then place the `.cfg` files into the folder.
 8. Launch CS2
-9. Start an practice session on Mirage
+9. Start a practice session on Mirage
 10. Open console and type `exec mirageInstantSmokePrac`
 
 # Screenshot
