@@ -18,6 +18,9 @@
 ![](https://github.com/PINPAL/cs2-window/blob/main/screenshot.png?raw=true)
 
 # Learn the Smokes
+*Note:* Tutorial is slightly outdated (see description) [for new smokes check this out](https://www.youtube.com/watch?v=krf1BKFg-aM)
+
+
 YouTube Tutorial ⬇️
 [![](https://github.com/PINPAL/cs2-window/blob/main/yt-thumbnail.png?raw=true)](https://youtu.be/EfNBUXvFobU)
 https://youtu.be/EfNBUXvFobU
